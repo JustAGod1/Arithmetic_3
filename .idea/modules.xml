@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic 3.iml" filepath="$PROJECT_DIR$/Arithmetic 3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Deciding/Deciding.iml" filepath="$PROJECT_DIR$/Deciding/Deciding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Parsing/Parsing.iml" filepath="$PROJECT_DIR$/Parsing/Parsing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stuff/Stuff.iml" filepath="$PROJECT_DIR$/Stuff/Stuff.iml" />
     </modules>
   </component>
